@@ -1,5 +1,5 @@
 <p id="top" align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+  <img src="https://github.com/devvrat-hans/devvrat-hans/raw/main/devvrat-hans_cover.png">
 </p>
 
 <h1 align="center">Hi there 👋, I am Devvrat Hans!</h1>
